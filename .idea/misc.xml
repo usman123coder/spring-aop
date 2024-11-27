@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/mbaexample/pom.xml" />
         <option value="$PROJECT_DIR$/after-returning-advice/pom.xml" />
         <option value="$PROJECT_DIR$/throwsAdvice/pom.xml" />
+        <option value="$PROJECT_DIR$/static-pointcut/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamic-pointcut/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mbaexample" />
-        <module name="after-returning-advice" />
         <module name="method-before-advice" />
-        <module name="aop-around-advice" />
         <module name="aadEx" />
         <module name="throwsAdvice" />
+        <module name="after-returning-advice" />
+        <module name="static-pointcut" />
+        <module name="dynamic-pointcut" />
+        <module name="aop-around-advice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
