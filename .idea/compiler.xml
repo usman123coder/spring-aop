@@ -11,6 +11,7 @@
         <module name="method-before-advice" />
         <module name="aop-around-advice" />
         <module name="aadEx" />
+        <module name="throwsAdvice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

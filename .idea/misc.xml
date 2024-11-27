@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/FirstServlet/pom.xml" />
         <option value="$PROJECT_DIR$/mbaexample/pom.xml" />
         <option value="$PROJECT_DIR$/after-returning-advice/pom.xml" />
+        <option value="$PROJECT_DIR$/throwsAdvice/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
